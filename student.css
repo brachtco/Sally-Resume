@@ -1,0 +1,89 @@
+body {
+
+	background-color: #d3cdcd;
+}
+
+header {
+			<!-- not working -->
+	background-color: #c6c4c4;
+}
+
+h1 {
+
+	text-align: center;
+	color: #4f4b4b;
+	font-style: italic;
+	font-size: 40px;
+}
+
+h3 {
+
+	margin-left: 210px;
+	font-family: Arial;
+}
+
+h4 {
+
+	margin-left: 210px;
+	font-family: Arial;
+}
+
+h5 {
+
+	margin-left: 210px;
+	font-style: italic;
+	font-family: Arial;
+	
+}
+
+h6 {
+
+	text-align:right;
+
+	}
+
+
+
+p {
+
+	margin-left: 210px;
+	margin-right: 900px;
+	font-family: Arial;
+
+	
+}
+
+img {
+
+	<!-- ask Jonathan about border -->
+}
+
+<!-- gap between image and section -->
+
+section {
+
+	background-color: #ddc3c3;
+	padding: 50px 0px 50px 1600px;
+}
+
+ul {
+
+	list-style-type: none;
+}
+
+li {
+
+	text-align: center;
+	padding: 20px;
+	font-size: 18px;
+	color: #fff;
+}
+
+footer {
+
+	background-color: #6d6868;
+	padding-top: 10px;
+	padding-bottom: 200px;
+}
+
+
