@@ -3,34 +3,50 @@ body {
 	background-color: #d3cdcd;
 }
 
+.header-left {
+
+		width: 50%;
+}
+
+.header-right {
+
+		width: 50%;
+}
+
 header {
-			<!-- not working -->
+			
 	background-color: #c6c4c4;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	
 }
 
 h1 {
 
-	text-align: center;
-	color: #4f4b4b;
+	margin-left: 10px;
+	margin-bottom: 8px;
+	color: #e55050;
 	font-style: italic;
-	font-size: 40px;
+	font-size: 60px;
 }
 
 h3 {
 
-	margin-left: 210px;
+	margin-left: 700px;
 	font-family: Arial;
 }
 
 h4 {
 
-	margin-left: 210px;
+	margin-left: 700px;
 	font-family: Arial;
 }
 
 h5 {
 
-	margin-left: 210px;
+	margin-left: 700px;
 	font-style: italic;
 	font-family: Arial;
 	
@@ -38,7 +54,12 @@ h5 {
 
 h6 {
 
-	text-align:right;
+	
+	color: #fff;
+	font-size: 14px;
+	margin-top: 4px;
+	margin-bottom: 10px;
+	margin-left: 10px;
 
 	}
 
@@ -46,7 +67,7 @@ h6 {
 
 p {
 
-	margin-left: 210px;
+	margin-left: 700px;
 	margin-right: 900px;
 	font-family: Arial;
 
@@ -55,35 +76,52 @@ p {
 
 img {
 
-	<!-- ask Jonathan about border -->
-}
+		border: 1px solid black;
+		border-radius: 10px;
+		margin-top: 10px;
+		margin-left: 1118px;
+		width: 135px;
+		height: 200px;
+		
 
-<!-- gap between image and section -->
+	
 
-section {
 
-	background-color: #ddc3c3;
-	padding: 50px 0px 50px 1600px;
+	}
+
+section {   
+
+	background-color: #d3cdcd;
+	padding: 15px 20px 15px 20px;
+
+
 }
 
 ul {
 
 	list-style-type: none;
+	margin-top: 10px;
+	margin-right: 10px;
 }
 
 li {
 
-	text-align: center;
-	padding: 20px;
-	font-size: 18px;
+	text-align: right;
+	padding: 3px;
+	font-size: 15px;
 	color: #fff;
+
+
 }
 
 footer {
 
 	background-color: #6d6868;
-	padding-top: 10px;
-	padding-bottom: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
 }
+
+
 
 
